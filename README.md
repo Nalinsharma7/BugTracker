@@ -1,4 +1,6 @@
-# Ninja-Bug-Tracker
+# Coding Ninjas Skill Test Code.
 
-A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a project.
+It is a bug tracker that keeps track of various projects and bug in them.
+
+
 
